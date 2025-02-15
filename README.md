@@ -22,3 +22,7 @@ ALL WIKI PAGES ((9 WEB PAGES DEPLOYED TOTAL @BTSIM BACKTEST SIMULATION MY IP PRO
 -> SENT_ELECTRONIC_EYE (...) - SINGLE SHARABLE NOTION WEB ((PAGES)) 🔗's:
 
 https://triangular-cough-c11.notion.site/19a828ff6bf78082ad8ecf44262aed3a?v=19a828ff6bf78065a9cd000c0eb1437d&pvs=4
+
+@E.E. ((Electronic Eye)) <> Int’l ((International)) ETF’s; 20 sortino, no MDD!
+
+https://triangular-cough-c11.notion.site/19a828ff6bf780fb9885de120cdef0d5?pvs=4
