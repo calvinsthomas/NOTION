@@ -5,7 +5,7 @@ Deployed Notion ((Web)) Pages &lt;> Algo Design Docs &lt;> Systematic Custom Int
 
 | Deployed via Notion ((Web)) Pages || Algo(rithmic) Design (Doc)umentation; Systematic Low-Cap. Custom Intraday L/S Bonds E.E. ((Electronic Eye)) Algos ((Port//Version)) <> Crypto || 20 sortino, no MDD |
 
-https://triangular-cough-c11.notion.site/code-python-ntbk-s-notebooks-188828ff6bf7807fbfe0d44493007b7b  
+https://triangular-cough-c11.notion.site/code-python-ntbk-s-notebooks-18f828ff6bf780f4943ed1f580e741d9?pvs=4
  
 A comprehensive documentation framework that captures the complete backtesting methodology through functional docstrings. This system provides a clean interface for organizing and presenting algorithmic trading system documentation in Notion. System Architecture:   
  
