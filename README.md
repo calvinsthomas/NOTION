@@ -11,4 +11,4 @@ https://triangular-cough-c11.notion.site/188828ff6bf780d4a0daf07a10245672?v=1998
 
 ((ALL LINKS WIKI - SENT ELECTRONIC EYE (...))) SINGLE SHARABLE 🔗's:
 
-https://triangular-cough-c11.notion.site/SENT_ELECTRONIC_EYE_CUMRES_PslshD_profit_leg_0_02_DEC_NAV_CUMRES_Err_dot_hedge_leg_0_01_DEC_or_neg_0-19a828ff6bf780ddbbcbe0c9ce40f8dc?pvs=4
+https://triangular-cough-c11.notion.site/19a828ff6bf78082ad8ecf44262aed3a?v=19a828ff6bf78065a9cd000c0eb1437d&pvs=4
