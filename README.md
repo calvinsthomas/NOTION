@@ -8,3 +8,7 @@ https://triangular-cough-c11.notion.site/code-python-ntbk-s-notebooks-18f828ff6b
 Custom Intraday Algos E.E. Bonds <> ((Port//Version)) Crypto; 20 Sortino, no MDD
 
 https://triangular-cough-c11.notion.site/188828ff6bf780d4a0daf07a10245672?v=199828ff6bf780719238000c18e74ab3&pvs=4
+
+((ALL LINKS WIKI - SENT ELECTRONIC EYE (...))) SINGLE SHARABLE 🔗's:
+
+https://triangular-cough-c11.notion.site/SENT_ELECTRONIC_EYE_CUMRES_PslshD_profit_leg_0_02_DEC_NAV_CUMRES_Err_dot_hedge_leg_0_01_DEC_or_neg_0-19a828ff6bf780ddbbcbe0c9ce40f8dc?pvs=4
