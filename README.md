@@ -17,6 +17,8 @@ A comprehensive documentation framework that captures the complete backtesting m
 
 4. System Integration
 
+$1-10MM O.S.S. Algo Design Doc Live on Notion Pages!!!
+
 ALL WIKI PAGES ((9 WEB PAGES DEPLOYED TOTAL @BTSIM BACKTEST SIMULATION MY IP PROPRIETARY METHODOLOGY))
 
 -> SENT_ELECTRONIC_EYE (...) - SINGLE SHARABLE NOTION WEB ((PAGES)) 🔗's:
