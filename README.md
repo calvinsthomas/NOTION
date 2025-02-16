@@ -1,4 +1,4 @@
-# To Allocators: email applmountain@icloud.com (MAIN) or calvinstephenthomas@gmail.com (ALT).
+# To ((Allocators//Quant Trading)) Firms: email applmountain@icloud.com (MAIN) or calvinstephenthomas@gmail.com (ALT).
 
 # NOTION
 Deployed Notion ((Web)) Pages &lt;> Algo Design Docs &lt;> Systematic Custom Intraday E.E. (Electronic Eye) Algos &lt;> ((Port//Version)) Crypto
