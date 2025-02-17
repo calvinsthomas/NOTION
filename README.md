@@ -19,7 +19,7 @@ A comprehensive documentation framework that captures the complete backtesting m
 
 4. System Integration
 
-Est. O.S.S. Value: $2-5MM or 10MM || First Quant O.S.S. Main Strat || Deployed via Notion ((Web)) Pages || Algo(rithmic) Design (Doc)umentation; Systematic Low-Cap. Custom Intraday L/S Bonds E.E. ((Electronic Eye)) Algos ((Port//Version)) <> Crypto || 20 sortino, no MDD |
+Est. O.S.S. Value: $3-5MM or 7-10MM || First Quant O.S.S. Main Strat || Deployed via Notion ((Web)) Pages || Algo(rithmic) Design (Doc)umentation; Systematic Low-Cap. Custom Intraday L/S Bonds E.E. ((Electronic Eye)) Algos ((Port//Version)) <> Crypto || 20 sortino, no MDD |
 
 ALL WIKI PAGES ((9 WEB PAGES DEPLOYED TOTAL @BTSIM BACKTEST SIMULATION MY IP PROPRIETARY METHODOLOGY))
 
