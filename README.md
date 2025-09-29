@@ -27,6 +27,10 @@ ALL WIKI PAGES ((9 WEB PAGES DEPLOYED TOTAL @BTSIM BACKTEST SIMULATION MY IP PRO
 
 https://triangular-cough-c11.notion.site/19a828ff6bf78082ad8ecf44262aed3a?v=19a828ff6bf78065a9cd000c0eb1437d&pvs=4
 
+ChatGPT Conversation - Algorithmic Trading System Discussion:
+
+https://www.notion.so/https-chatgpt-com-c-68d7e1f5-c480-8324-b942-689ad5245b1b-27b828ff6bf7801186cbe6f3b5fc2d24?source=copy_link#27d828ff6bf780c8973ef84fe0f489ee
+
 Custom Intraday Algos E.E. Bonds <> ((Port//Version)) Crypto; 20 Sortino, no MDD; Wait and Verify Conditions Algos
 
 https://triangular-cough-c11.notion.site/188828ff6bf780d4a0daf07a10245672?v=199828ff6bf780719238000c18e74ab3&pvs=4
