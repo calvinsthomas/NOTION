@@ -3,7 +3,8 @@
 # NOTION
 Deployed Notion ((Web)) Pages &lt;> Algo Design Docs &lt;> Systematic Custom Intraday E.E. (Electronic Eye) Algos &lt;> ((Port//Version)) Crypto
 
-![image](https://github.com/user-attachments/assets/354adb9b-a222-451c-b28a-a464036eb579)
+![image](https://github.com/user-attachments/assets/354adb9b-a222-451c-b28a-a4640360x1abnegblood<img width="1315" height="218" alt="image" src="https://github.com/user-attachments/assets/c5eff624-015a-4331-ad81-7bdf61e3a294" />
+eb579)
 
 | Deployed via Notion ((Web)) Pages || Algo(rithmic) Design (Doc)umentation; Systematic Low-Cap. Custom Intraday L/S Bonds E.E. ((Electronic Eye)) Algos ((Port//Version)) <> Crypto || 20 sortino, no MDD |
 
