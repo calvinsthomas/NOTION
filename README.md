@@ -36,5 +36,3 @@ https://triangular-cough-c11.notion.site/188828ff6bf780d4a0daf07a10245672?v=1998
 @E.E. ((Electronic Eye)) <> Int’l ((International)) ETF’s; 20 sortino, no MDD!
 
 https://triangular-cough-c11.notion.site/19a828ff6bf780fb9885de120cdef0d5?pvs=4
-
-
